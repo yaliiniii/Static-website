@@ -1,0 +1,123 @@
+.logo {
+    width: 100px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(6, 21, 23);
+    font-family: sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.banner-img {
+    width: 100%;
+    position: relative;
+}
+
+.banner-title {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    font-size: 50px;
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.about-para {
+    padding: 50px 100px;
+}
+
+.academy-img {
+    width: 100%;
+}
+
+.coach-card {
+    display: flex;
+    gap: 40px;
+}
+
+.abt-img {
+    background-color: #ECFAE5;
+}
+
+.main-img {
+    height: 300px;
+    width: 100%;
+}
+
+.main-title {
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    font-size: 50px;
+    color: white;
+}
+
+.about-website {
+    font-size: large;
+}
+
+.home {
+    text-align: center;
+}
+
+.name {
+    color: #091057;
+    text-align: center;
+}
+
+.coach {
+    background-color: #D4F6FF;
+}
+
+.contact {
+    background-color: #CBDCEB;
+}
+
+.contact-img {
+    width: 50%;
+}
+
+.first-img {
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 40px;
+}
+
+.profile-one {
+    display: flex;
+    gap: 50px;
+}
+
+.information-one {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+}
+

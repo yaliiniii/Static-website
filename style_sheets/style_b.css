@@ -1,0 +1,23 @@
+ body{
+            background-color: rgb(197, 232, 246);
+            padding-top:200px;
+        }
+       .submit{
+        margin:auto;
+        border:1px solid black;
+        height:200px;
+        width: 400px;
+        display:flex;
+        justify-content: center;
+        place-items: center;
+        box-shadow: 5px 10px 5px grey;
+        
+       }
+       a{
+        display:flex;
+        justify-content: center;
+        text-decoration: none;
+        color:black;
+        font-size: 20px;
+        padding:30px;
+       }
